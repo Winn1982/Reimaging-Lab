@@ -28,11 +28,20 @@ On the laptop, I restarted and started pressing 'esc' to enter the startup menu.
 
 The computer restarted from the USB with the Ubuntu OS and will be installed to replace the old Windows OS. 
 
-![IMG_8578 (3)](https://github.com/user-attachments/assets/084c3038-c42e-4efc-8660-fe9aea8f6d53)
+![IMG_8578 (3)](https://github.com/user-attachments/assets/e5f65ecf-6ec8-4337-b3f3-74dd9cf69369)
+
 
 ![ubuntu installing](https://github.com/user-attachments/assets/598be059-e45c-4420-8944-aaa89aef9a53)
 
 Ubuntu is currently installing on the old laptop
+
+![ubuntu done](https://github.com/user-attachments/assets/29447dc0-0bd4-4efd-ae94-de0fc5b4d416)
+
+Ubuntu is finished installing and is working properly on the laptop. 
+
+![ubutu on desktop](https://github.com/user-attachments/assets/b1ee2b40-effa-496d-8087-eb68d9af4fdd)
+
+
 
 
 
