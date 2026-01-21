@@ -1,3 +1,9 @@
+<p align="center">
+  <img width="447" height="274" alt="image" src="https://github.com/user-attachments/assets/1a83b47c-2f48-4580-a4ec-4ea62bc57324" />
+
+  </p>
+
+
 # Reimaging-Lab
 Reimaging an old HP laptop from Windows 10 OS to Ubuntu OS. 
 
