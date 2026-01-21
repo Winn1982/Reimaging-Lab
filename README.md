@@ -21,7 +21,18 @@ I first downloaded "Rufus" to be able to create a bootable USB and making sure t
 
 On the laptop, I restarted and started pressing 'esc' to enter the startup menu. Where I pressed F9 to enter 'Boot Device Options' Once in the boot menu I selected the option for 'USB Hard Drive'
 
-![Boot Option Menu](https://github.com/user-attachments/assets/6688321c-c323-4273-8388-f8f31013db15)
+![Boot Option Menu](https://github.com/user-attachments/assets/c41a7342-2921-44e9-a04d-e2b75def4aa9)
+
+
+![Ubuntu install](https://github.com/user-attachments/assets/6095b2e9-62b4-49da-af00-288d875a587c)
+
+The computer restarted from the USB with the Ubuntu OS and will be installed to replace the old Windows OS. 
+
+![IMG_8578 (3)](https://github.com/user-attachments/assets/084c3038-c42e-4efc-8660-fe9aea8f6d53)
+
+
+
+
 
 
 
