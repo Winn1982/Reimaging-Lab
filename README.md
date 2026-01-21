@@ -30,6 +30,15 @@ The computer restarted from the USB with the Ubuntu OS and will be installed to 
 
 ![IMG_8578 (3)](https://github.com/user-attachments/assets/084c3038-c42e-4efc-8660-fe9aea8f6d53)
 
+![ubuntu installing](https://github.com/user-attachments/assets/598be059-e45c-4420-8944-aaa89aef9a53)
+
+Ubuntu is currently installing on the old laptop
+
+
+
+
+
+
 
 
 
