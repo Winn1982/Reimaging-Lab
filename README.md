@@ -5,7 +5,8 @@
 
 
 # Reimaging-Lab
-Reimaging an old HP laptop from Windows 10 OS to Ubuntu OS. 
+# Objective:
+Reimage an old HP laptop from Windows 10 OS to Ubuntu OS. 
 
 ## Description
 
